@@ -1,0 +1,21 @@
+MODEL: Naive Bayes
+========================================
+
+Accuracy : 0.9260
+Precision: 0.9261
+Recall   : 0.9260
+F1-Score : 0.9260
+
+Confusion Matrix:
+[[933  67]
+ [ 81 919]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+  grapefruit       0.92      0.93      0.93      1000
+      orange       0.93      0.92      0.93      1000
+
+    accuracy                           0.93      2000
+   macro avg       0.93      0.93      0.93      2000
+weighted avg       0.93      0.93      0.93      2000

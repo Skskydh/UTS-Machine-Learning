@@ -1,0 +1,13 @@
+<class 'pandas.DataFrame'>
+RangeIndex: 10000 entries, 0 to 9999
+Data columns (total 6 columns):
+ #   Column    Non-Null Count  Dtype  
+---  ------    --------------  -----  
+ 0   name      10000 non-null  str    
+ 1   diameter  10000 non-null  float64
+ 2   weight    10000 non-null  float64
+ 3   red       10000 non-null  int64  
+ 4   green     10000 non-null  int64  
+ 5   blue      10000 non-null  int64  
+dtypes: float64(2), int64(3), str(1)
+memory usage: 468.9 KB

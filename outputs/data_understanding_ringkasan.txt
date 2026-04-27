@@ -1,0 +1,4 @@
+Jumlah data: 10000
+Jumlah kolom: 6
+Jumlah duplikat: 0
+Nama kolom: ['name', 'diameter', 'weight', 'red', 'green', 'blue']

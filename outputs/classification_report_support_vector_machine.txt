@@ -1,0 +1,21 @@
+MODEL: Support Vector Machine
+========================================
+
+Accuracy : 0.9395
+Precision: 0.9396
+Recall   : 0.9395
+F1-Score : 0.9395
+
+Confusion Matrix:
+[[948  52]
+ [ 69 931]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+  grapefruit       0.93      0.95      0.94      1000
+      orange       0.95      0.93      0.94      1000
+
+    accuracy                           0.94      2000
+   macro avg       0.94      0.94      0.94      2000
+weighted avg       0.94      0.94      0.94      2000

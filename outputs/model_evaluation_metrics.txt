@@ -1,0 +1,4 @@
+                 Model  Accuracy  Precision  Recall  F1-Score
+Support Vector Machine    0.9395   0.939627  0.9395  0.939496
+         Decision Tree    0.9290   0.929062  0.9290  0.928997
+           Naive Bayes    0.9260   0.926084  0.9260  0.925996

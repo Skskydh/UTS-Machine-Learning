@@ -1,0 +1,8 @@
+DATA PREPARATION
+================
+
+Jumlah data setelah dibersihkan: 10000
+Jumlah data training: 8000
+Jumlah data testing: 2000
+Fitur yang digunakan: ['diameter', 'weight', 'red', 'green', 'blue']
+Mapping label: {'grapefruit': np.int64(0), 'orange': np.int64(1)}

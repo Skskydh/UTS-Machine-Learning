@@ -1,0 +1,21 @@
+MODEL: Decision Tree
+========================================
+
+Accuracy : 0.9290
+Precision: 0.9291
+Recall   : 0.9290
+F1-Score : 0.9290
+
+Confusion Matrix:
+[[935  65]
+ [ 77 923]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+  grapefruit       0.92      0.94      0.93      1000
+      orange       0.93      0.92      0.93      1000
+
+    accuracy                           0.93      2000
+   macro avg       0.93      0.93      0.93      2000
+weighted avg       0.93      0.93      0.93      2000

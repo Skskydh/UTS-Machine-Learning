@@ -1,0 +1,9 @@
+BUSINESS UNDERSTANDING
+======================
+
+Tujuan project ini adalah membuat model klasifikasi untuk membedakan buah orange dan grapefruit berdasarkan fitur numerik pada dataset.
+
+Model yang dibandingkan:
+1. Decision Tree
+2. Naive Bayes
+3. Support Vector Machine
